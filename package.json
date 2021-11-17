@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Kurtiscwright/coinflip#readme",
   "dependencies": {
+    "moment": "^2.29.1",
     "prompt-sync": "^4.2.0"
   }
 }
