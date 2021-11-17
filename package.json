@@ -1,0 +1,26 @@
+{
+  "name": "coinflip",
+  "version": "1.0.0",
+  "description": "A console based coin flip app",
+  "main": "flip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kurtiscwright/coinflip.git"
+  },
+  "keywords": [
+    "javascript",
+    "js"
+  ],
+  "author": "Kurtis Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kurtiscwright/coinflip/issues"
+  },
+  "homepage": "https://github.com/Kurtiscwright/coinflip#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
