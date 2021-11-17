@@ -13,10 +13,10 @@ const side = prompt('Pick a number 0 for heads or 1 for tails \n');
 while (result <= flips) {
     if (Math.round(flip) === side) {
         result++;
-        return console.log('I found your side in ', result);
+        return console.log('I found your side in %s flips ', result);
     } else {
         result++;
     }
 }
 
-return console.log('I did not find your side in ', result);
+return console.log('I did not find your side in %s flips ', result);
